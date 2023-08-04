@@ -92,6 +92,7 @@ AccuMO on two tasks: depth estimation and visual odometry (VO).
     
     adb shell mkdir -p /sdcard/accumo/models
     adb push pretrained_models/client/fast-depth-64x224* /sdcard/accumo/models
+    cp pretrained_models/client/*.tflite client/app/src/main/ml
     ```
 
 5. Install dependencies for accuracy calculation:
