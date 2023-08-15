@@ -155,6 +155,9 @@ AccuMO on two tasks: depth estimation and visual odometry (VO).
     # (from the top-level directory)
     python -m server.server
     ```
+    
+    The server will take around 30s to start. Proceed after the server prints
+    "Server ready".
 
 2. On the laptop, run the following command to start offloading the downloaded
    video, replacing `<SERVER_IP>` with the address of the server. Make sure to
