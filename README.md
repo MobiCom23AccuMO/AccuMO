@@ -1,5 +1,7 @@
 # AccuMO
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8266421.svg)](https://doi.org/10.5281/zenodo.8266421)
+
 **[MobiCom '23]** AccuMO: Accuracy-Centric Multitask Offloading in
 Edge-Assisted Mobile Augmented Reality
 
